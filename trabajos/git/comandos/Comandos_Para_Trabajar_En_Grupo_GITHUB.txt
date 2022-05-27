@@ -1,0 +1,17 @@
+git fetch origin   		//actualizas el repositorio local con los datos del repositorio remoto
+
+git merge origin/master  	// la rama local master se funde con la rama origin/master
+
+
+git push origin master  	// Para subir los cambios del repositorio local al repositorio remoto
+
+
+
+
+git pull origin			// Equivale a estos dos comandos: "git fetch origin" y "git merge origin/master"
+
+
+
+
+
+
